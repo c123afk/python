@@ -36,7 +36,7 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 There are two assignments (one per week) in this module:
 
-1. [Anagram Checker](https://github.com/UofT-DSI/python/blob/main/02_activities/assignments/assignment_1.ipynb): Due **Sunday December 1 at 11:59 PM**
+1. [Anagram Checker](https://github.com/UofT-DSI/python/blob/main/02_activities/assignments/assignment_1.ipynb): Due **Sunday December 2 at 11:59 PM**
 2. [Efficacy Analysis of a Hypothetical Arthritis Drug](https://github.com/UofT-DSI/python/blob/main/02_activities/assignments/assignment_2.ipynb): Due **Sunday December 8 at 11:59 PM**
 
 ## Contacts
@@ -46,9 +46,9 @@ There are two assignments (one per week) in this module:
 * Technical Facilitator: 
   * **Kaylie Lau** (She/Her): kaylie.lau@mail.utoronto.ca
 * Learning Support Staff: 
+  * **Anjali Shrivastava** (She/Her): anju_shrivastava@yahoo.com
+  * **Moniz Chan**: chanmoniz526@gmail.com
   * **Pedram Aliniaye Asli** (He/Him):  pedram.aliniayeasli@gmail.com
-  * **Anjali Shrivastava** (INSERT): anju_shrivastava@yahoo.com
-  * **MC Chan** (INSERT): chanmoniz526@gmail.com
 
 ## Delivery of the Learning Module
 
